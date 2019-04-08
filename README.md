@@ -1,8 +1,8 @@
-This is the Pytorch version from https://github.com/openai/robosumo.
+This is the PyTorch version from https://github.com/openai/robosumo.
 
 RoboSumo in Pytorch
 ========
-Please kindly cite the paper if you use this environmentgit ad.
+Please kindly cite the paper if you use this environment.
 This repository contains a set of competitive multi-agent environments used in the paper [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://arxiv.org/abs/1710.03641).
 
 <table>
